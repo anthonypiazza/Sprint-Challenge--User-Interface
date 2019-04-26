@@ -186,3 +186,28 @@ footer nav a {
 .middle-content > .boxes > .dodgerblue {
     background-color: dodgerblue;
 }
+
+
+/*NAV CSS*/
+
+nav {
+    margin: 40px 0px 10px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.hero-image {
+    width: 800px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+.logo {
+    margin-bottom: 10px;
+}
